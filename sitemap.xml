@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://example.com/lanlan/posts/firstpost/</loc>
+    <lastmod>2018-05-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/lanlan/posts/secondpost/</loc>
+    <lastmod>2018-07-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/lanlan/posts/thirdpost/</loc>
+    <lastmod>2018-08-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/lanlan/posts/fourthpost/</loc>
+    <lastmod>2018-09-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/lanlan/about/</loc>
+    <lastmod>2020-07-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/lanlan/posts/</loc>
+    <lastmod>2020-07-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/lanlan/</loc>
+    <lastmod>2020-07-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/lanlan/page-list/</loc>
+    <lastmod>2020-07-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/lanlan/tags/</loc>
+    <lastmod>2020-07-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/lanlan/tags/another-tag/</loc>
+    <lastmod>2020-07-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/lanlan/tags/second-tag/</loc>
+    <lastmod>2020-07-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/lanlan/tags/number-2/</loc>
+    <lastmod>2020-07-29</lastmod>
+  </url>
+</urlset>
