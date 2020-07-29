@@ -2,7 +2,7 @@
 
 build with Eleventy
 
-[![Build Status](https://travis-ci.com/fengqinglanlan/fengqinglanlan.github.io.svg?branch=master)](https://travis-ci.com/github/fengqinglanlan/fengqinglanlan.github.io)
+[![Build Status](https://travis-ci.com/fengqinglanlan/lanlan.svg?branch=master)](https://travis-ci.com/github/fengqinglanlan/lanlan)
 
 ## Deploy this to your own site
 
