@@ -1,0 +1,17 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Home
+  order: 1
+---
+
+<h1>Latest blog posts</h1>
+
+{% set postslist = collections.posts | head(-3) %}
+{% set postslistCounter = collections.posts | length %}
+{% include "postslist.njk" %}
+
+<p>More articles can be found in <a href="{{ '/posts/' | url }}">the blog archive</a>.</p>
+
+<a class="twitter-timeline" data-dnt="true" data-chrome="noheader nofooter noborders noscrollbar" href="https://twitter.com/fengqinglan?ref_src=twsrc%5Etfw"></a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
