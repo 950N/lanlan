@@ -5,13 +5,14 @@ eleventyNavigation:
   order: 1
 ---
 
-<h1>Latest blog posts</h1>
+<h2>Latest blog posts</h2>
 
-{% set postslist = collections.posts | head(-3) %}
+{% set postslist = collections.posts | head(-10) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
 
 <p>More articles can be found in <a href="{{ '/posts/' | url }}">the blog archive</a>.</p>
 
+<h2>Latest <a href="https://twitter.com/fengqinglan" rel="me nofollow">@fengqinglan</a> tweets</h2>
 <a class="twitter-timeline" data-dnt="true" data-chrome="noheader nofooter noborders noscrollbar" href="https://twitter.com/fengqinglan?ref_src=twsrc%5Etfw"></a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
