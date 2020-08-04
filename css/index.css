@@ -9,6 +9,7 @@
   --navy: #17050F;
   --blue: #082840;
   --white: #fff;
+  --black: #000;
   --main-link-color: #0a50c2;
 
   --offset: 2em;
@@ -27,7 +28,7 @@ body {
   max-width: 860px;
   margin: 0 auto;
   padding: 0;
-  color: var(--darkgray);
+  color: var(--black);
   background-color: var(--white);
   border: var(--border-width) dashed var(--racing-red);
 }
@@ -35,15 +36,17 @@ a {
   text-decoration: none;
 }
 
+p {
+  line-height: 1.85;
+}
 p:last-child {
   margin-bottom: 0;
 }
-p,
+
 .tmpl-post li,
 img {
   max-width: 37.5em; /* 600px /16 */
 }
-p,
 .tmpl-post li {
   line-height: 1.45;
 }
