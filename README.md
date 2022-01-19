@@ -2,7 +2,7 @@
 
 build with Eleventy
 
-[![Build Status](https://travis-ci.com/fengqinglanlan/lanlan.svg?branch=master)](https://travis-ci.com/github/fengqinglanlan/lanlan)
+[![Build Status](https://travis-ci.com/950N/lanlan.svg?branch=master)](https://travis-ci.com/github/950N/lanlan)
 
 ## Deploy this to your own site
 
@@ -12,7 +12,7 @@ build with Eleventy
 ### 1. Clone this Repository
 
 ```
-git clone https://github.com/fengqinglanlan/lanlan.git your-blog-name
+git clone https://github.com/950N/lanlan.git your-blog-name
 ```
 
 
