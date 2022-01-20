@@ -1,8 +1,4 @@
-# Fengqing Lan blog
-
-build with Eleventy
-
-[![Build Status](https://travis-ci.com/950N/lanlan.svg?branch=master)](https://travis-ci.com/github/950N/lanlan)
+# FengqingLan blog
 
 ## Deploy this to your own site
 
@@ -14,7 +10,6 @@ build with Eleventy
 ```
 git clone https://github.com/950N/lanlan.git your-blog-name
 ```
-
 
 ### 2. Navigate to the directory
 
