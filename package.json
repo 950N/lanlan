@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "lanlan blog",
   "scripts": {
-    "build": "eleventy",
+    "build": "eleventy --pathprefix='/lanlan/'",
     "watch": "eleventy --watch",
     "serve": "eleventy --serve",
     "start": "eleventy --serve",
