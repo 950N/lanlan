@@ -17,9 +17,8 @@ jobs:
         run: |
           npm install
           npm run build
-      - name: Deploy...
-        uses: peaceiris/actions-gh-pages@v1.1.0
-        env:
-          github_token: ${{ secrets.ACCESS_TOKEN }}
-          publish_dir: ./lanlan
-          publish_branch: gh-pages
+      - name: Deploy🚀...
+        uses: JamesIves/github-pages-deploy-action@v4.2.2
+        with:
+          branch: gh-pages
+          folder: lanlan
