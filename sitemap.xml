@@ -38,46 +38,46 @@
   
   <url>
     <loc>https://example.com/lanlan/about/</loc>
-    <lastmod>2020-08-04</lastmod>
+    <lastmod>2022-01-20</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/lanlan/posts/</loc>
-    <lastmod>2020-08-04</lastmod>
+    <lastmod>2022-01-20</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/lanlan/</loc>
-    <lastmod>2020-08-04</lastmod>
+    <lastmod>2022-01-20</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/lanlan/page-list/</loc>
-    <lastmod>2020-08-04</lastmod>
+    <lastmod>2022-01-20</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/lanlan/tags/</loc>
-    <lastmod>2020-08-04</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/lanlan/tags/summary/</loc>
-    <lastmod>2020-08-04</lastmod>
+    <lastmod>2022-01-20</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/lanlan/tags/reading%20review/</loc>
-    <lastmod>2020-08-04</lastmod>
+    <lastmod>2022-01-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/lanlan/tags/summary/</loc>
+    <lastmod>2022-01-20</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/lanlan/tags/biography/</loc>
-    <lastmod>2020-08-04</lastmod>
+    <lastmod>2022-01-20</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/lanlan/tags/class/</loc>
-    <lastmod>2020-08-04</lastmod>
+    <lastmod>2022-01-20</lastmod>
   </url>
 </urlset>
