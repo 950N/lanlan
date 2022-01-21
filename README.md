@@ -1,6 +1,6 @@
-# FengqingLan blog
+# Lanlan blog
 
-## Deploy this to your own site
+Deploy with Github Actions
 
 
 ## Getting Started
